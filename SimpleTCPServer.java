@@ -29,7 +29,7 @@ public class SimpleTCPServer {
 		}
 
 	}
-
+	//Reference : https://www.mkyong.com/java/ascii-art-java-example/
 	public static String createString(String asciiString) {
 		int width = 100;
 		int height = 30;
